@@ -1,5 +1,6 @@
 public class f3 {
     public static void main(String[] args) {
         System.out.println("Hello world f3.java");
+        System.out.println("Updated in release branch");
     }
 }
